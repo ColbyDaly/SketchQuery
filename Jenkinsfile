@@ -1,4 +1,4 @@
 @Library('JenkinsGlobalLibs') _
-pipeline-test {
+testing_123 {
   agentLabel="master"
 }
