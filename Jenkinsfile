@@ -1,0 +1,4 @@
+@Library('JenkinsGlobalLibs') _
+pipeline
+{
+}
