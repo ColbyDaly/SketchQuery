@@ -1,5 +1,4 @@
 @Library('JenkinsGlobalLibs') _
-pipeline-test
-{
+pipeline-test {
   agentLabel="master"
 }
